@@ -1,0 +1,72 @@
+.container{
+	margin-top: 25px;
+}
+.red{
+	background-color: red;
+	color: black;
+}
+.picture{
+	width: 100%;
+}
+.firstcoding{
+	font-size: 20px;
+	color: darkblue;
+}
+.pictext{
+	font-size: 12px;
+}
+.cardtext{
+	margin-bottom: 20px;
+}
+.information{
+	margin-bottom: 20px;
+	background-color: lightgreen;
+}
+.navBrand{
+	max-height: 200%;
+}
+.aboutme{
+	margin-bottom: 20px;
+}
+.hobbies{
+	margin-bottom: 20px;
+	background: lightblue;
+}
+.timemanagement{
+	margin-bottom: 20px;
+	background-color: orange;
+}
+.allicons{
+	color: blue;
+	font-size: 25px;
+}
+.navbar-text{
+	font-size: 12px;
+}
+.aboutme{
+	background: lightgreen;
+}
+.navbar {
+	background-image: url(http://www.nmgncp.com/data/out/32/3759809-background-pic.jpg);
+}
+.wholebox{
+	background-color: gold;
+}
+.signedin{
+	color: green;
+}
+.mefont{
+	color: yellow;
+}
+.wholesite{
+	background-image: url(http://orig04.deviantart.net/b6b9/f/2011/278/9/d/desktop_space_background_by_shifter07-d4byl0p.jpg);
+	background-size: cover;
+	padding-top: 80px;
+}
+.recommendedauthors{
+	background-color: lightpink;
+	font-size: 20px;
+}
+.titlefont{
+	font-size: 30px;
+}
